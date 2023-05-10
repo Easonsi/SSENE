@@ -1,5 +1,7 @@
 # SSENE
 
+The dataset `NegComment` is available in the folder `data/`. The used ChatGPT prompts can be found in `gpt-prompt.md`. 
+
 ## Environment
 
 install the required packages in `requirements.txt`:
@@ -30,7 +32,7 @@ HDIM=768
 DUAL=consist
 FUSE=gate
 python -u main.py --model=v1 --device_id=$DID \
-    --dataset=meituan --exp_name=base \
+    --dataset=NegComment --exp_name=base \
     --train_batch_size=4 \
     --dual_mode=$DUAL --fuse_mode=$FUSE \
     --hidden_size=$HDIM
