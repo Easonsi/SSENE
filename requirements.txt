@@ -1,0 +1,9 @@
+pytorch==1.13.1
+hanlp==2.1.0b48
+transformers==4.26.1
+sentencepiece==0.1.97
+tensorboardX==2.6
+numpy==1.23.5
+pandas==1.5.3
+tqdm
+prettytable
