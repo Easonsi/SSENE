@@ -1,6 +1,6 @@
 # SSENE
 
-The dataset `NegComment` is available in the folder `data/`. The used ChatGPT prompts can be found in `gpt-prompt.md`. 
+The dataset `NegComment` is available in the folder `data/`, the dataset `SFU Review Corpus` can be downloaded from [here](https://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html). The used ChatGPT prompts can be found in `gpt-prompt.md`. 
 
 ## Environment
 
